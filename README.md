@@ -1,4 +1,4 @@
-# CCF_Baseline_litm 介绍
+# CCF_Baseline_lstm 介绍
 2020CCF滴滴时空预测比赛赛题的一个baseline
 
 该Baseline算法来自https://mp.weixin.qq.com/s/1vJDOInUOdBgXtLdVcpsEA
